@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sala>
+	<Periodos>
+
+
+		<Periodo>
+			<Nombre>
+				PERIODO INTERMEDIO TARDÍO - K’EROS DE MADERA DE EPOCA INCA.
+			</Nombre>
+			<Epoca></Epoca>
+			<Descripcion>
+
+			</Descripcion>
+		</Periodo>
+		<Periodo>
+			<Nombre>
+				PERIODO INTERMEDIO TARDÍO - ORFEBRERÍA INCA
+			</Nombre>
+			<Epoca>1400 a 1500 d. C.</Epoca>
+			<Descripcion>
+
+			</Descripcion>
+		</Periodo>
+
+	</Periodos>
+	
+</Sala>
