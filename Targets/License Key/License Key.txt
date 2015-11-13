@@ -1,0 +1,8 @@
+Device: Mobile
+Type: Starter
+Status: Active
+Created: Nov 12, 2015 22:33
+
+License key for App (valid only with Vuforia 4.2 or newer)
+
+AR+jB7z/////AAAAAYDU25rzq0GQvmFpvTjA3JA8y3W1bEP4IYc9JIUoMY4LMOjfzzwYHyc5fIt2SBsm/iLxjzmIwwrTPS/wJXdV7GmGnj7WYgU4Hq6X+MvR4WbOnDiVbpiUeZ+k/4nzoXQrH3h6vDVF2KtOQmryWV3puO5v8S61VIqnhkcmYcWHVfXU3zVBGPThQSWs1HsCjAaXB4KgXLKX8bYyV8+A7gbhioURHTPkyFtOoNhp+O+NTknTUHGD+Xx7IhjpEjkqL/GaYkXMC2y1FGjrkZ9k0/j67j7xcHnQMY/mQ6i/kD+35N8Yf583h/ahRnJLUcI5bG3+qK4VSbPjU4UfBoedEwTHExF91MhEqx0s74YpilhWdiex
