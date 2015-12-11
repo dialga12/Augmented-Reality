@@ -51,16 +51,25 @@
      <Compile Include="Assets\Vuforia\Editor\Scripts\Unzipper\SharpZipLibUnzipper.cs" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_6\informacion_sala6.xml" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_5\informacion_sala5.xml" />
      <None Include="Assets\StreamingAssets\QCAR\museum_object.xml" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_1\informacion_sala1.xml" />
+     <None Include="Assets\StreamingAssets\QCAR\museum_object 1.xml" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_2\informacion_sala2.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
+     <None Include="Assets\Yurowm\Shaders\SkinShader.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\informacion_museo.xml" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_3\informacion_sala3.xml" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_4\informacion_sala4.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Users/carloscastro_94/Unity-32/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -75,6 +84,12 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/carloscastro_94/Unity-32/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="Qualcomm.Vuforia.UnityExtensions.Editor">
+ <HintPath>D:/RepositorioGit/trunk/SantuariosAndinos/Assets/Vuforia/Editor/Scripts/Qualcomm.Vuforia.UnityExtensions.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Qualcomm.Vuforia.UnityExtensions">
+ <HintPath>D:/RepositorioGit/trunk/SantuariosAndinos/Assets/Vuforia/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Users/carloscastro_94/Unity-32/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -111,12 +126,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>C:/Users/carloscastro_94/Unity-32/Editor/Data/PlaybackEngines/macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="Qualcomm.Vuforia.UnityExtensions">
- <HintPath>D:/ProyectoGit/SantuariosAndinos/Assets/Vuforia/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll</HintPath>
- </Reference>
- <Reference Include="Qualcomm.Vuforia.UnityExtensions.Editor">
- <HintPath>D:/ProyectoGit/SantuariosAndinos/Assets/Vuforia/Editor/Scripts/Qualcomm.Vuforia.UnityExtensions.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Users/carloscastro_94/Unity-32/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

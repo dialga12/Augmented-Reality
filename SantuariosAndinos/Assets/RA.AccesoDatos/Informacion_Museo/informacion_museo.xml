@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LugarTuristico>
+	<Museo>
+		<Name>Museo Arqueologico de la Universidad Catolica de Santa Maria</Name>
+		<Locacion>Arequipa, Peru</Locacion>
+		<Direccion>Cruz Verde 303></Direccion>
+		<Telefono>+5154221083</Telefono>
+		<Entrada>Gratis</Entrada>
+		<Horario>8:30am - 4pm Mon-Fri</Horario>
+		<Historia>
+		Este museo se inauguro el día 26 de marzo de 1997, tras importantes investigaciones arqueologicas realizadas por el Proyecto: Santuarios de Altura del Sur Andino, dirigido por los profesores Johan Reinhard y José Antonio Chávez.
+
+		Con los trabajos de investigación realizados por la universidad en más de tres décadas y en diversos sitios de Arequipa, se ha logrado obtener una gran cantidad de elementos Arqueológicos que hoy permiten ser expuestos al visitante, estos objetos pertenecen a diferentes grupos culturales que se desarrollaron en el departamento de Arequipa desde aproximadamente 12,000 años antes de Cristo hasta la conquista.
+
+		En el recorrido hacia el interior del museo  se observan  cerámicas, textiles, fardos funerarios, objetos líticos de madera y metal de los desarrollos culturales de Nazca, Tiwanaku, Wari, La Ramada, Churajón, Acari e Incas, entre otros.
+
+		El museo muestra en una secuencia expositiva a traves de sus salas todo el  desarrollo cultural de arequipa. como se muestran a continuación:
+			
+		</Historia>
+
+		<Salas>
+			<Sala>
+				Aquí se exhiben objetos del Pre cerámico Pintasayoc (Representación de Las cuevas de Pintasayoc) 5000 A.C Periodo Pre-agro alfarero, periodo de cazadores y recolectores, se pueden observar la representación de las cuevas de Pintasayoc que se encontraron en la Provincia de Condesuyos donde antiguos pobladores dejaron pinturas rojas que representan animales (camélidos) así como representaciones humanas,  esta época de la caza y la recolección parte de un estado nómade, por ello se encontraron restos de cuarzo y puntas de proyectil en esta zona.
+			</Sala>
+
+			<Sala>
+				Sala dedicada al Horizonte Temprano, aquí se exponen restos encontrados del periodo formativo entre ellas tenemos cerámicas de la Cultura Hachas, los cuales no presentan una mayor decoración en su estructura, lo que si resalta son las formas punteadas o incisas en los objetos.
+			</Sala>
+
+			<Sala>
+				Periodo Intermedio Temprano 300 – 700 D.C. Aquí tenemos elementos de la influencia Nazca, en los ceramios que se exhiben presentan una decoración como los rostros y una decoración escalonada en la parte superior, representando la trilogía, los tres mundos, tenemos cerámicas que ya son mas utilizadas en la cotidianas, así tenemos también las que son usadas en ceremonias.
+			</Sala>
+			
+			<Sala>
+				Horizonte Medio 600 a 800 D.C Tiwanaku - Wari Aquí vemos Artículos pertenecientes a Tiwanaku, provenientes de la zona altiplánica de Puno encontramos ceramios, Keros, muy decorados así como algunos que no tienen mayor decoración, lo mas representativo es el kero Retrato que representa un rostro humano en la parte inferior.
+			</Sala>
+		</Salas>
+	</Museo>
+</LugarTuristico>

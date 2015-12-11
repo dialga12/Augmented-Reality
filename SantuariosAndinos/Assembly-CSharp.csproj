@@ -46,10 +46,17 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\MotorConocimiento\Camara.cs" />
-     <Compile Include="Assets\MotorConocimiento\Imagenes.cs" />
-     <Compile Include="Assets\MotorConocimiento\Regresar.cs" />
-     <Compile Include="Assets\MotorConocimiento\Salir.cs" />
+     <Compile Include="Assets\RA.Interfaz\Activar y desactivar\Audio.cs" />
+     <Compile Include="Assets\RA.Interfaz\Activar y desactivar\Imagenes.cs" />
+     <Compile Include="Assets\RA.Interfaz\Activar y desactivar\Informacion.cs" />
+     <Compile Include="Assets\RA.Interfaz\Activar y desactivar\variableGlobalAudio.cs" />
+     <Compile Include="Assets\RA.Interfaz\Activar y desactivar\variableGlobalInformacion.cs" />
+     <Compile Include="Assets\RA.Interfaz\Cambio de escenas\Camara.cs" />
+     <Compile Include="Assets\RA.Interfaz\Cambio de escenas\Regresar.cs" />
+     <Compile Include="Assets\RA.Interfaz\Cambio de escenas\Salir.cs" />
+     <Compile Include="Assets\RA.MotorConocimiento\MostrarInformacion.cs" />
+     <Compile Include="Assets\RA.MotorConocimiento\ReproducirAudio.cs" />
+     <Compile Include="Assets\RA.MotorConocimiento\TomarFoto.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -86,18 +93,31 @@
      <Compile Include="Assets\Vuforia\Scripts\WireframeBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\WireframeTrackableEventHandler.cs" />
      <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
+     <Compile Include="Assets\Yurowm\Demo\Scripts\Actions.cs" />
+     <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterPanel.cs" />
+     <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterViewer.cs" />
+     <Compile Include="Assets\Yurowm\Demo\Scripts\PlayerController.cs" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_6\informacion_sala6.xml" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_5\informacion_sala5.xml" />
      <None Include="Assets\StreamingAssets\QCAR\museum_object.xml" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_1\informacion_sala1.xml" />
+     <None Include="Assets\StreamingAssets\QCAR\museum_object 1.xml" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_2\informacion_sala2.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
+     <None Include="Assets\Yurowm\Shaders\SkinShader.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\informacion_museo.xml" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_3\informacion_sala3.xml" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
+     <None Include="Assets\RA.AccesoDatos\Informacion_Museo\Sala_4\informacion_sala4.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Users/carloscastro_94/Unity-32/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -108,7 +128,7 @@
  <HintPath>C:/Users/carloscastro_94/Unity-32/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Qualcomm.Vuforia.UnityExtensions">
- <HintPath>D:/ProyectoGit/SantuariosAndinos/Assets/Vuforia/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll</HintPath>
+ <HintPath>D:/RepositorioGit/trunk/SantuariosAndinos/Assets/Vuforia/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Users/carloscastro_94/Unity-32/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

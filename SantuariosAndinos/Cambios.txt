@@ -1,0 +1,1 @@
+- cambiar imagenes Script, esto para hacer que se reconozcan todas las imagenes con tag "Imagen", y asi desactivar todo

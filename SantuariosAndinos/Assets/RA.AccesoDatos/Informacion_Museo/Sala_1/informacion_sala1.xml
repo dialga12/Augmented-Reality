@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sala>
+	<Periodos>
+		<Periodo>
+			<Nombre>
+				PERIODO PRE AGRO ALFARERO
+			</Nombre>
+			<Epoca>500 años a. C</Epoca>
+			<Descripcion>
+				Con el camino del medio ambiente, los prados se poblaron de guanacos, vicuñas, venados o tarucas. Las familias de cazadores debían encontrar buenos lugares para vivir, como las cuevas donde se realizaba la mayor parte de la actividad de los hombres y por ello pintaron en sus paredes figuras mágicas que se conservan a través de los siglos.
+En las cuevas y campamentos los hombres fabricaban finos instrumentos de piedra, destinadas especialmente para cazar, tales como: Puntas de proyectil, cuchillos, raspadores, raederas, punzones, etc.
+			</Descripcion>
+		</Periodo>
+
+		<Periodo>
+			<Nombre>
+				PERIODO FORMATIVO HACHAS
+			</Nombre>
+			<Epoca></Epoca>
+			<Descripcion>
+			</Descripcion>
+		</Periodo>
+
+		<Periodo>
+			<Nombre>
+				PERIODO INTERMEDIO TEMPRANO
+			</Nombre>
+			<Epoca>300 a 700 d. C</Epoca>
+			<Descripcion>
+				Nasca se desarrollo en lo que actualmente es el departamento de Ica, a lo largo de su historia cubrió los valles de Chincha, Pisco, Ica y Río Grande de Nasca, expandiéndose hacia el Sur, al Departamento de Arequipa ocupando especialmente la costa de la Provincia de Caravelí llegando hasta casi la ciudad de Arequipa.
+Uno de los aspectos más destacados de Nasca es el arte textil, la metalurgia y la cerámica, que en un primer momento es decorada con motivos y formas naturalistas y realistas o motivos mitológicos o seres fantásticos en combinación de rasgos humanos, de animal o atributos totalmente irreales.
+Posteriormente va abandonando todo el naturalismo y comienza a usarse un lenguaje simbólico recargado de elementos ornamentales como volutas, bastones, etc. Variando sus formas globulares para crear características como vasos, ollas y ligeramente acampanados.
+			</Descripcion>
+		</Periodo>
+	</Periodos>
+	
+</Sala>
